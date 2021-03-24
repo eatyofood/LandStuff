@@ -1,0 +1,8 @@
+os
+PIL 
+pandas
+geopandas
+geopy
+matplotlib.pyplot
+plotly_express 
+tqdm
